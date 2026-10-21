@@ -1,0 +1,6 @@
+# Saksham Mishra
+
+## About Me
+
+I am a student at Ugsot, currently learning Git and GitHub
+
